@@ -2,3 +2,7 @@ syntax: regexp
 Debug/*
 Release/*
 ipch/*
+syntax: glob
+iterating multidimensional arrays.opensdf
+iterating multidimensional arrays.sdf
+iterating multidimensional arrays.suo
